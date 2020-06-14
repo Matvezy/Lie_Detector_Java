@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lie Detector Java</string>
+    <string name="title_home">Recording</string>
+    <string name="title_dashboard">Live</string>
+    <string name="title_notifications">Audio</string>
+</resources>
